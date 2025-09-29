@@ -18,7 +18,7 @@
 - Criar novas notas com título e conteúdo.
 - Editar notas existentes.
 - Excluir notas.
-- Visualização das notas em lista ou grid.
+- Visualização das notas.
 - Responsivo para diferentes tamanhos de tela.
 - Persistência local usando PostgreSQL.
 
