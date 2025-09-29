@@ -6,8 +6,8 @@
 
 **Tecnologias utilizadas:**
 
-- **Frontend:** React.js, JSX, CSS Modules (mobile-first)
-- **Backend:** NestJS, Node.js
+- **Frontend:** React.js, CSS Modules (mobile-first)
+- **Backend:** NestJS
 - **Banco de Dados:** PostgreSQL (local)
 - **Linguagem:** TypeScript (backend), JavaScript/JSX (frontend)
 
