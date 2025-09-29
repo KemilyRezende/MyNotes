@@ -63,16 +63,16 @@ frontend/
     ├─ Components/
     │   ├─ Header/
     │   │   ├─ Header.jsx
-    │   │   └─ Header.module.css
+    │   │   └─ header.module.css
     │   ├─ Button/
     │   │   ├─ Button.jsx
-    │   │   └─ Button.module.css
+    │   │   └─ button.module.css
     │   ├─ NewNote/
     │   │   ├─ NewNote.jsx
-    │   │   └─ NewNote.module.css
+    │   │   └─ newnote.module.css
     │   └─ Note/
     │       ├─ Note.jsx
-    │       └─ Note.module.css
+    │       └─ note.module.css
     ├─ services/
     │   └─ api.ts
     ├─ App.jsx
