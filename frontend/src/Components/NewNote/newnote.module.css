@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=Roboto:wght@400;700&display=swap');
+
+*{
+    font-family: 'Reenie Beanie', cursive;
+}
+
+.note{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    width: 18rem;
+    height: 16rem;
+
+    padding-top: 2.5rem;
+
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.pink{
+    background-color: #e68c90;
+}
+
+.yellow{
+    background-color: #edc448;
+}
+
+.inp{
+    width: 16rem;
+    font-size: 2.2rem;
+    font-weight: bold;
+    text-align: center;
+    color:#1a1c21;
+    letter-spacing: -2px;
+}
+
+.inp,
+.text{
+  background: transparent;
+  color: inherit;
+  border: none;
+}
+
+.inp:focus,
+.text:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+
+.text{
+    font-size: 1.7rem;
+    text-align: center;
+    width: 16rem;
+    height: 9rem;
+    color: #1a1c21;
+    overflow-x: hidden;
+}
+
+.buttonHolder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
