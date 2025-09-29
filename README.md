@@ -128,7 +128,16 @@ frontend/
 ```bash
 cd backend
 npm install
-# configurar .env com dados do PostgreSQL
+
+# Configure o arquivo .env com os dados do PostgreSQL, por exemplo:
+PORT=3000
+
+DB_HOST=localhost
+DB_PORT=5432
+DB_USER=root
+DB_PASS=1234
+DB_NAME=mynotes
+
 npm run start:dev
 ```
 
@@ -137,6 +146,10 @@ npm run start:dev
 ```bash
 cd frontend
 npm install
+
+# Configure o arquivo .env com a URL da API, por exemplo:
+VITE_API_URL=http://localhost:3000
+
 npm run dev
 ```
 
