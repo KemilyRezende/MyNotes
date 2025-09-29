@@ -143,3 +143,43 @@ npm run dev
 - A aplicação será acessível em http://localhost:5173 (ou porta do Vite).
 
 ## **7. Visualização**
+
+### **Versão Desktop**
+
+![Tela principal - Desktop](https://github.com/KemilyRezende/MyNotes/blob/main/telas/Desktop_main.png)  
+*Tela principal exibindo os post-its na versão desktop*
+
+![Tela de criação - Desktop](https://github.com/KemilyRezende/MyNotes/blob/main/telas/Desktop_create.png)  
+*Interface de criação de post-it na versão desktop*
+
+![Tela de edição - Desktop](https://github.com/KemilyRezende/MyNotes/blob/main/telas/Desktop_edit.png)  
+*Interface de edição de post-it na versão desktop*
+
+### **Versão Tablet**
+
+![Tela principal - Tablet](https://github.com/KemilyRezende/MyNotes/blob/main/telas/Tablet_main.png)  
+*Tela principal exibindo os post-its na versão tablet*
+
+![Tela de criação - Tablet](https://github.com/KemilyRezende/MyNotes/blob/main/telas/Tablet_create.png)  
+*Interface de criação de post-it na versão tablet*
+
+![Tela de edição - Tablet](https://github.com/KemilyRezende/MyNotes/blob/main/telas/Tablet_edit.png)  
+*Interface de edição de post-it na versão tablet*
+
+
+### **Versão Smartphone**
+
+![Tela principal - Smartphone](https://github.com/KemilyRezende/MyNotes/blob/main/telas/Smartphone_main.png)  
+*Tela principal exibindo os post-its na versão mobile*
+
+![Tela de criação - Smartphone](https://github.com/KemilyRezende/MyNotes/blob/main/telas/Smarphone_create.png)  
+*Interface de criação de post-it na versão mobile*
+
+![Tela de edição - Smartphone](https://github.com/KemilyRezende/MyNotes/blob/main/telas/Smartphone_edit.png)  
+*Interface de edição de post-it na versão mobile*
+
+### **Protótipos - Figma**
+
+Os protótipos utilizados no desenvolvimento da interface estão disponíveis na pasta [Prototipos - Figma](https://github.com/KemilyRezende/MyNotes/tree/main/Prototipos%20-%20Figma).
+
+
