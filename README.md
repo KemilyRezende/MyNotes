@@ -123,13 +123,23 @@ frontend/
 
 ## **6. Instalação e Execução**
 
+Antes de tudo, clone este repositório:
+
+```bash
+git clone https://github.com/KemilyRezende/MyNotes.git
+cd MyNotes
+```
+
 ### **Backend**
 
 ```bash
 cd backend
 npm install
+```
 
-# Configure o arquivo .env com os dados do PostgreSQL, por exemplo:
+Crie o arquivo .env com os dados do PostgreSQL, por exemplo:
+
+```bash
 PORT=3000
 
 DB_HOST=localhost
@@ -137,19 +147,34 @@ DB_PORT=5432
 DB_USER=root
 DB_PASS=1234
 DB_NAME=mynotes
+```
 
+Rode a aplicação:
+
+```bash
 npm run start:dev
 ```
+
+- Certifique-se de que o PostgreSQL está instalado e em execução localmente antes de iniciar o backend.
+- As credenciais e configurações devem estar corretamente definidas no arquivo `.env`.
+
 
 ### **Frontend**
 
 ```bash
 cd frontend
 npm install
+```
 
-# Configure o arquivo .env com a URL da API, por exemplo:
+Configure o arquivo .env com a URL da API, por exemplo:
+
+```bash
 VITE_API_URL=http://localhost:3000
+```
 
+Rode a aplicação:
+
+```bash
 npm run dev
 ```
 
