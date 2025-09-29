@@ -119,8 +119,6 @@ frontend/
 4. Edita ou exclui notas existentes.
 5. As alterações são salvas no banco de dados local.
 
-*(Opcional: inserir diagrama de atividades do usuário em ferramenta como Draw.io ou Lucidchart e salvar como imagem.)*
-
 ---
 
 ## **6. Instalação e Execução**
